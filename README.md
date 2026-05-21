@@ -1,4 +1,4 @@
-# 🗄️ Employee Analytics System — Phase 2
+# 🗄️ Employee Analytics System 
 
 > An interactive Python CLI application for real-time employee analytics using Oracle 21c XE database.
 
